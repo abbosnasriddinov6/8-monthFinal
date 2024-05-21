@@ -1,0 +1,48 @@
+.header {
+  height: 70px;
+  display: flex;
+  align-items: center;
+  background-color: #14161a;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.heading {
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding-left: 300px;
+  color: #87ceeb;
+  top: 16px;
+  font-weight: 700;
+}
+
+.clicker {
+  margin-left: 600px;
+}
+
+.select {
+  background-color: #14161a;
+  padding: 5px;
+  border: 1px solid #14161a;
+  border-radius: 4px;
+  margin-left: auto;
+  color: #fff;
+  font-size: 0.8rem;
+  border: none;
+  top: 16px;
+  width: 65px;
+  cursor: pointer;
+}
+
+.button {
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #87ceeb;
+  color: black;
+  cursor: pointer;
+  margin-left: 1rem;
+  margin-left: 20px;
+  border: none;
+  height: 28px;
+}

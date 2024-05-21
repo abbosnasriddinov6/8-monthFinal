@@ -1,0 +1,67 @@
+.InfoIN {
+  width: 540px;
+}
+
+.InfoIN img {
+  margin-left: 120px;
+  width: 170px;
+  height: 170px;
+}
+
+.Name {
+  padding-left: 130px;
+  font-size: 48px;
+  color: #fff;
+}
+
+.NameText {
+  padding-left: 20px;
+  font-size: 16px;
+  color: #fff;
+  padding-top: 20px;
+}
+
+.defination {
+  padding-left: 20px;
+  padding-top: 10px;
+  color: #fff;
+}
+
+.InfoIN {
+  border-right: 1px solid white;
+  height: 630px;
+}
+
+.main {
+  width: 1000px;
+  height: 600px;
+  padding-left: 20px;
+}
+
+.Container {
+  display: flex;
+  align-items: center;
+}
+
+.chart {
+  padding-left: 30px;
+  width: 1000px;
+}
+
+.Button {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 20px;
+  gap: 16px;
+}
+
+.Button button {
+  width: 200px;
+  height: 41px;
+  color: white;
+  background-color: #14161a;
+  border: none;
+  border: 1px solid #87ceeb;
+  border-radius: 8px;
+  cursor: pointer;
+}

@@ -1,0 +1,24 @@
+.Button {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 50px;
+  gap: 20px;
+}
+
+.Button button {
+  width: 200px;
+  height: 41px;
+  color: white;
+  background-color: #14161a;
+  border: none;
+  border: 1px solid #87ceeb;
+  border-radius: 8px;
+  cursor: pointer;
+  text-align: start;
+  padding-left: 10px;
+}
+
+.Button button.active {
+  color: white;
+  background-color: #87ceeb;
+}
